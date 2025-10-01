@@ -8,7 +8,7 @@ A simple number guessing game built in Java using Test-Driven Development (TDD).
 ## How to Run Tests
 - Run with JUnit in IntelliJ (requires JUnit Jupiter).
 - Example tests are located in `GuessTest.java`.
-- - Run: `java GuessTest`
+- Run: `java GuessTest`
 
 ## Authors
 - Ali Jawed
