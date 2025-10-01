@@ -3,7 +3,6 @@
 A simple number guessing game built in Java using Test-Driven Development (TDD).
 
 ## How to Run (Play the game yourself)
-- Compile: `javac Guess.java`
 - Run: `java Guess`
 
 ## How to Run Tests
