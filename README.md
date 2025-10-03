@@ -12,4 +12,4 @@ A simple number guessing game built in Java using Test-Driven Development (TDD).
 
 ## Authors
 - Ali Jawed
-- Joe Wahbeh
+- Yusuf Wahbeh
