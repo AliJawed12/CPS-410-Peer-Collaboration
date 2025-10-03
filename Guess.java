@@ -69,7 +69,7 @@ public class Guess {
         if (guess < 1 || guess > 100) return "Out of range";
         if (guess == randomNum) return "Correct";
         if (guess < randomNum) return "Too low";
-        return "Too hihg";
+        return "Too high";
     }
 
     // Testabel method for checking if user wants to continue
